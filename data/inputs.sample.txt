@@ -1,0 +1,4 @@
+# Sample input file for Rightmove scraper
+# Provide the URLs of properties to scrape from Rightmove
+https://www.rightmove.co.uk/properties/133596956#/?channel=RES_LET
+https://www.rightmove.co.uk/properties/133596957#/?channel=RES_LET
